@@ -23,7 +23,7 @@
         "bower-asset/angular": "~1.4",
         "bower-asset/angular-route": "~1.4",
         "bower-asset/angular-resource": "~1.4",
-        "bower-asset/angular-bootstrap": "~2.1.4",
+        "bower-asset/angular-bootstrap": "~2.5.0",
         "bower-asset/angular-validation": "~1.4"
     },
     "autoload": {
